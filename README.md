@@ -1,6 +1,6 @@
 # progress_stepper
 
-A new Flutter project.
+Flutter project for youtube video https://www.youtube.com/watch?v=gdkI2vk4684
 
 ## Getting Started
 
